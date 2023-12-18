@@ -1,0 +1,2 @@
+# ManualVisionInspector
+Manuális képfeldolgozó program
