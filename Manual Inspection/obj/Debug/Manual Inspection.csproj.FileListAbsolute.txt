@@ -1,0 +1,120 @@
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x64\concrt140.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x64\cvextern.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x64\msvcp140.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x64\vcruntime140.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x86\concrt140.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x86\cvextern.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x86\msvcp140.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x86\vcruntime140.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\Manual Inspection.exe.config
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\Manual Inspection.exe
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\Manual Inspection.pdb
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\Emgu.CV.UI.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\Emgu.CV.World.NetStandard.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\ZedGraph.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\Emgu.CV.UI.xml
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\Emgu.CV.World.NetStandard.xml
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\ZedGraph.xml
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\de\ZedGraph.resources.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\es\ZedGraph.resources.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\fr\ZedGraph.resources.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\hu\ZedGraph.resources.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\it\ZedGraph.resources.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\ja\ZedGraph.resources.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\pt\ZedGraph.resources.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\ru\ZedGraph.resources.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\sk\ZedGraph.resources.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\sv\ZedGraph.resources.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\tr\ZedGraph.resources.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\obj\Debug\Manual Inspection.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\obj\Debug\Manual_Inspection.Form1.resources
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\obj\Debug\Manual_Inspection.Properties.Resources.resources
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\obj\Debug\Manual Inspection.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\obj\Debug\Manual Inspection.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\obj\Debug\Manual Inspection.csproj.CopyComplete
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\obj\Debug\Manual Inspection.exe
+D:\VisualStudioProjects\C#\Manual Inspection\Manual Inspection\obj\Debug\Manual Inspection.pdb
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x64\concrt140.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x64\cvextern.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x64\msvcp140.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x64\vcruntime140.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x86\concrt140.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x86\cvextern.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x86\msvcp140.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\x86\vcruntime140.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\Manual Inspection.exe.config
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\Manual Inspection.exe
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\Manual Inspection.pdb
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\Emgu.CV.UI.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\Emgu.CV.World.NetStandard.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\ZedGraph.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\Emgu.CV.UI.xml
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\Emgu.CV.World.NetStandard.xml
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\ZedGraph.xml
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\de\ZedGraph.resources.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\es\ZedGraph.resources.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\fr\ZedGraph.resources.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\hu\ZedGraph.resources.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\it\ZedGraph.resources.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\ja\ZedGraph.resources.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\pt\ZedGraph.resources.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\ru\ZedGraph.resources.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\sk\ZedGraph.resources.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\sv\ZedGraph.resources.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\tr\ZedGraph.resources.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\obj\Debug\Manual Inspection.csproj.AssemblyReference.cache
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\obj\Debug\Manual_Inspection.Form1.resources
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\obj\Debug\Manual_Inspection.Properties.Resources.resources
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\obj\Debug\Manual Inspection.csproj.GenerateResource.cache
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\obj\Debug\Manual Inspection.csproj.CoreCompileInputs.cache
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\obj\Debug\Manual Inspection.csproj.CopyComplete
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\obj\Debug\Manual Inspection.exe
+D:\0_VisualStudioProjects\C#\Manual Inspection\Manual Inspection\obj\Debug\Manual Inspection.pdb
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\x64\concrt140.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\x64\cvextern.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\x64\msvcp140.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\x64\vcruntime140.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\x86\concrt140.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\x86\cvextern.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\x86\msvcp140.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\x86\vcruntime140.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\Manual Inspection.exe.config
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\Manual Inspection.exe
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\Manual Inspection.pdb
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\Emgu.CV.World.NetStandard.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\ZedGraph.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\Emgu.CV.World.NetStandard.xml
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\ZedGraph.xml
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\obj\Debug\Manual Inspection.csproj.AssemblyReference.cache
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\obj\Debug\Manual_Inspection.Form1.resources
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\obj\Debug\Manual_Inspection.Properties.Resources.resources
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\obj\Debug\Manual Inspection.csproj.GenerateResource.cache
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\obj\Debug\Manual Inspection.csproj.CoreCompileInputs.cache
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\obj\Debug\Manual Inspection.csproj.CopyComplete
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\obj\Debug\Manual Inspection.exe
+C:\Users\Rió\Downloads\ManualInspector-main\Manual Inspection\Manual Inspection\obj\Debug\Manual Inspection.pdb
